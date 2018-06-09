@@ -1,0 +1,12 @@
+{
+  "author": "Danil Semelenov",
+  "bin": "./cli.js",
+  "dependencies": {
+    "esmy": "*"
+  },
+  "description": "A Yarn wrapper for esmy. See https://github.com/sgtpep/esmy.",
+  "license": "ISC",
+  "name": "create-esmy",
+  "repository": "https://github.com/sgtpep/create-esmy.git",
+  "version": "1.0.0"
+}
